@@ -11,10 +11,12 @@
             "id": "5c7bc2e49df60fe1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "pdf",
+              "state": {
+                "file": "книги/asi_progintro_2_91_v1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "asi_progintro_2_91_v1"
             }
           }
         ]
@@ -165,6 +167,13 @@
   },
   "active": "5c7bc2e49df60fe1",
   "lastOpenFiles": [
+    "книги/paradigma_progintro_2_91_v3.pdf",
+    "README.md",
+    "книги/sistem_i_seti_progintro_2_91_v2.pdf",
+    "книги/zadachki_progintro_2_91_taskbook.pdf",
+    "книги/asi_progintro_2_91_v1.pdf",
+    "книги",
+    "Новая папка",
     "Моя первая заметка.md"
   ]
 }
