@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "851054cbb754b0d0",
+        "id": "36287811a459d745",
         "type": "tabs",
         "children": [
           {
-            "id": "1a08ea17f24ee4aa",
+            "id": "744e5426edb1fc0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,11 +167,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a08ea17f24ee4aa",
+  "active": "744e5426edb1fc0f",
   "lastOpenFiles": [
-    "Pasted image 20251007090025.png",
     "README.md",
     "Основы финансовой грамотности.md",
+    "img/Pasted image 20251007090025.png",
+    "img",
     "книги/zadachki_progintro_2_91_taskbook.pdf",
     "книги/asi_progintro_2_91_v1.pdf",
     "книги/sistem_i_seti_progintro_2_91_v2.pdf",
