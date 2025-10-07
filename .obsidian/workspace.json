@@ -11,12 +11,14 @@
             "id": "5c7bc2e49df60fe1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "книги/asi_progintro_2_91_v1.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "asi_progintro_2_91_v1"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -165,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c7bc2e49df60fe1",
+  "active": "1b7ba823c5b6dfb7",
   "lastOpenFiles": [
     "книги/paradigma_progintro_2_91_v3.pdf",
     "README.md",
