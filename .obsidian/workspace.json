@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "566c3c72d2aa3648",
+        "id": "a1a9c75ccce9ae44",
         "type": "tabs",
         "children": [
           {
-            "id": "eba16a5c2a2ae471",
+            "id": "a52459fbabe7d57e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -163,14 +163,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eba16a5c2a2ae471",
+  "active": "a52459fbabe7d57e",
   "lastOpenFiles": [
+    "Бизнес.md",
+    "База.md",
+    "книги/asi_progintro_2_91_v1.pdf",
+    "книги/paradigma_progintro_2_91_v3.pdf",
+    "книги/sistem_i_seti_progintro_2_91_v2.pdf",
+    "книги/zadachki_progintro_2_91_taskbook.pdf",
     "Цели.md",
     "Как выйти в прайм-форму программиста.md",
     "Бизнес с нуля.md",
     "MBA.md",
     "Идеи для улучшения бизнеса.md",
-    "Бизнес.md",
     "Бизнес-книги.md",
     "7_принципов_высокоэффективных_людей.md",
     "Метод Гарварда.md",
@@ -186,20 +191,14 @@
     "английский (конспект) (2).md",
     "афоризмы и интересные выражения (2).md",
     "Основы_финансовой_грамотности_видео_гумманитарщины.md",
-    "книги/sistem_i_seti_progintro_2_91_v2.pdf",
-    "книги/asi_progintro_2_91_v1.pdf",
-    "База.md",
     "Бизнес-идеи.md",
     "Основы big-O.md",
     "Основы социологии.md",
-    "Основы политики.md",
     "source/img/IMG_1989.jpeg",
     "source/img/IMG_1990.jpeg",
     "source/img/IMG_1890.jpg",
     "source/img/Pasted image 20251007090025.png",
     "Без названия",
-    "книги/paradigma_progintro_2_91_v3.pdf",
-    "книги/zadachki_progintro_2_91_taskbook.pdf",
     "source/img/Pasted image 20251007091302.png",
     "Pasted image 20251007091135.png",
     "Pasted image 20251007091134.png",
