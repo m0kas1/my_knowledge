@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "36287811a459d745",
+        "id": "566c3c72d2aa3648",
         "type": "tabs",
         "children": [
           {
-            "id": "744e5426edb1fc0f",
+            "id": "eba16a5c2a2ae471",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основы финансовой грамотности.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основы финансовой грамотности"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "right": {
     "id": "43d3931f5d30d4ad",
@@ -167,18 +163,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "744e5426edb1fc0f",
+  "active": "eba16a5c2a2ae471",
   "lastOpenFiles": [
-    "README.md",
-    "Основы финансовой грамотности.md",
-    "img/Pasted image 20251007090025.png",
-    "img",
-    "книги/zadachki_progintro_2_91_taskbook.pdf",
-    "книги/asi_progintro_2_91_v1.pdf",
+    "Цели.md",
+    "Как выйти в прайм-форму программиста.md",
+    "Бизнес с нуля.md",
+    "MBA.md",
+    "Идеи для улучшения бизнеса.md",
+    "Бизнес.md",
+    "Бизнес-книги.md",
+    "7_принципов_высокоэффективных_людей.md",
+    "Метод Гарварда.md",
+    "Книги-саморазвитие.md",
+    "От нуля к единице.md",
+    "Построение бизнес-моделей.md",
+    "упражнения для развития дикции (2).md",
+    "Интервью_Никиты_Сергеевича_Михалкова_вДудь.md",
+    "английский (конспект).md",
+    "афоризмы и интересные выражения.md",
+    "Саморазвитие.md",
+    "упражнения для развития дикции.md",
+    "английский (конспект) (2).md",
+    "афоризмы и интересные выражения (2).md",
+    "Основы_финансовой_грамотности_видео_гумманитарщины.md",
     "книги/sistem_i_seti_progintro_2_91_v2.pdf",
+    "книги/asi_progintro_2_91_v1.pdf",
+    "База.md",
+    "Бизнес-идеи.md",
+    "Основы big-O.md",
+    "Основы социологии.md",
+    "Основы политики.md",
+    "source/img/IMG_1989.jpeg",
+    "source/img/IMG_1990.jpeg",
+    "source/img/IMG_1890.jpg",
+    "source/img/Pasted image 20251007090025.png",
+    "Без названия",
     "книги/paradigma_progintro_2_91_v3.pdf",
+    "книги/zadachki_progintro_2_91_taskbook.pdf",
+    "source/img/Pasted image 20251007091302.png",
+    "Pasted image 20251007091135.png",
+    "Pasted image 20251007091134.png",
+    "source/img/Без названия.base",
+    "source",
+    "source/img",
     "книги",
-    "Новая папка",
-    "Моя первая заметка.md"
+    "Новая папка"
   ]
 }
