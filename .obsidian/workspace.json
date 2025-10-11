@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Матрица. Начало"
             }
+          },
+          {
+            "id": "4498654c02f6bcf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мышцы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мышцы"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,8 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b5ee850bda67019",
+  "active": "4498654c02f6bcf1",
   "lastOpenFiles": [
+    "Матрица. Начало.md",
+    "Мышцы.md",
     "source/img/Pasted image 20251011094132.png",
     "source/img/Pasted image 20251011094051.png",
     "source/img/Pasted image 20251011093357.png",
@@ -192,7 +208,6 @@
     "Цели.md",
     "README.md",
     "daily/2025-10-10.md",
-    "Матрица. Начало.md",
     "source/img/Pasted image 20251010210320.png",
     "source/img/Pasted image 20251010205552.png",
     "source/img/Pasted image 20251010205408.png",
@@ -225,7 +240,6 @@
     "source/img/IMG_1989.jpeg",
     "source/img/IMG_1990.jpeg",
     "source/img/IMG_1890.jpg",
-    "source/img/Pasted image 20251007090025.png",
     "source/img/Без названия.base",
     "source",
     "source/img",
